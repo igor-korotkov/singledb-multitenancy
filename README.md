@@ -1,3 +1,8 @@
+**OUTDATED, Please use** https://github.com/cuba-platform/multitenancy-addon-demo 
+
+
+
+
 # Single DB Multitenancy Sample
 
 This sample application demostrates the usage of single database multi-tenancy component for CUBA.Platform.
